@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/YoloV8/TRAFFIC_LIGHTS_DETECTİON/Data/dataset
+
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+
+names: ['green-traffic-light', 'green-traffic-lights', 'red-traffic-lights', 'traffic-lights']
